@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/MovieDatabase
+    url: jdbc:postgresql://containers-us-west-56.railway.app:7840/railway
     username: postgres
-    password: 2002
+    password: blyTtdLZAmKLAjDhIJ2O
   jpa:
     hibernate:
       ddl-auto: update
