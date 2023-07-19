@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/MovieDatabase
+    username: postgres
+    password: 2002
+  jpa:
+    hibernate:
+      ddl-auto: update
+server:
+  port: 8000
