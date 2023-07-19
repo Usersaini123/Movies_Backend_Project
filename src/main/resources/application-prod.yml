@@ -6,7 +6,3 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
-  profiles:
-    active: prod
-server:
-  port: 8000
